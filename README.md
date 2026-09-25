@@ -1,5 +1,5 @@
-## Hi there 👋
-This is a personal repo 
+## Hi there it is Quinn👋
+Feel free to look around--I'm sure there is probably somethinggg interesting. And if there isn't please email me to inform me of my lameness!
 <!--
 **Nalomun/Nalomun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

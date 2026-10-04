@@ -1,5 +1,5 @@
-## Hi there it is Quinn👋
-Feel free to look around--I'm sure there is probably somethinggg interesting. And if there isn't please email me to inform me of my lameness!
+## Hi there! it is Quinn👋
+Feel free to look around--I'm sure there is probably somethinggg interesting. I like to do research projects and make fun hypotheses to be broken. In my repos you can see some amateur market research amusements, machine learning escapades, and other grand adventures.
 <!--
 **Nalomun/Nalomun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

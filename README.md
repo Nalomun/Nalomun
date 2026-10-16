@@ -1,4 +1,4 @@
-# Quinn Lambert
+# Quinn
 
 Hello! I am Quinn, a second year at Northeastern studying Data Science and Business Administration with a concentration in Supply Chain Management! Most of what I build is investment research, market-data tooling, and other analytical engagements. Here are some (hopefully) interesting ones:
 

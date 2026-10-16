@@ -6,4 +6,4 @@ Hello! I am Quinn, a second year at Northeastern studying Data Science and Busin
 - [Arconian](https://github.com/Nalomun/arconian) is a small-cap strategy I tested and closed as a null result.
 - [Galyari](https://github.com/Nalomun/galyari) is a Linux-native Level 2 order-flow heatmap.
 
-I'm looking for a January–June 2026 co-op and Summer internships! More at [quinnlambert.com](https://quinnlambert.com).
+I'm looking for a Spring 2027 co-op and Summer internships! More at [quinnlambert.com](https://quinnlambert.com).
